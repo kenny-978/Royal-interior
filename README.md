@@ -117,3 +117,4 @@
   </footer>
 </body>
 </html>
+<img src="image.jpg" alt="My Picture">
