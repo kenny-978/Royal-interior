@@ -27,7 +27,7 @@
 
     nav a {
       color: white;
-      text-decoration: none;
+      text-decoration: gold;
       padding: 1rem;
       transition: background 0.3s;
     }
