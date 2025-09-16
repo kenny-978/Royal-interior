@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Royal Cottons & Interior Deco</title>
+  <title>Royal Curtains & Interior Deco</title>
   <style>
     body {
       margin: 0;
@@ -65,8 +65,8 @@
 </head>
 <body>
   <header>
-    <h1>Royal Cottons & Interior Deco</h1>
-    <p>Quality cottons and interior decoration: Bedspreads, Pillowcases, Window Blinds & More</p>
+    <h1>Royal Curtains & Interior Deco</h1>
+    <p>Quality Curtains and interior decoration: Bedspreads, Pillowcases, Window Blinds & More</p>
   </header>
 
   <nav>
@@ -102,7 +102,7 @@
 
     <section id="about">
       <h2>About Us</h2>
-      <p>At Royal Cottons & Interior Deco, we combine creativity with quality materials to give you the best in home and office decoration.</p>
+      <p>At Royal Curtains & Interior Deco, we combine creativity with quality materials to give you the best in home and office decoration.</p>
     </section>
 
     <section id="contact">
@@ -113,7 +113,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Royal Cottons & Interior Deco. All rights reserved.</p>
+    <p>&copy; 2025 Royal Curtains & Interior Deco. All rights reserved.</p>
   </footer>
 </body>
 </html>
