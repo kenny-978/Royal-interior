@@ -78,8 +78,8 @@
 
   <main>
     <section id="home">
-      <h2>Welcome to Royal Cottons & Interior Deco</h2>
-      <p>We provide high-quality cottons and stylish interior decoration solutions to beautify your home and office.</p>
+      <h2>Welcome to Royal Curtains & Interior Deco</h2>
+      <p>We provide high-quality curtains and stylish interior decoration solutions to beautify your home and office.</p>
     </section>
 
     <section id="services">
