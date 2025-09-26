@@ -1,4 +1,4 @@
-<!DOCTYPE html><img src="myphoto.jpg" alt="My Photo" width="300">
+<!DOCTYPE html><img src="file_00000000d1486243abb0dbb9842e736e.jpg" alt="My Photo" width="300">
 <html lang="en">
 <head>
   <meta charset="UTF-8">
